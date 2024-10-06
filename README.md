@@ -7,7 +7,7 @@ Este é o meu portfólio pessoal, desenvolvido como parte do CP2 de Web Developm
 ### Funcionalidades
 
 - **Home**: Apresentação pessoal e uma breve descrição sobre mim.
-- **Projetos**: Apresenta os projetos desenvolvidos, com links para os repositórios no GitHub e demonstrações ao vivo.
+- **Projetos**: Apresenta os projetos desenvolvidos, com links para os repositórios no GitHub, Vercel e simuladores.
 - **Contato**: Formulário para que os visitantes possam me enviar mensagens diretamente.
 
 ## Tecnologias Utilizadas
