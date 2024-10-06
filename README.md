@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto é um portfólio pessoal desenvolvido em React. Ele tem como objetivo apresentar meus projetos e permitir que os visitantes entrem em contato comigo. O portfólio é dividido em várias seções, incluindo uma página inicial, uma página de projetos e uma página de contato.
+Este é o meu portfólio pessoal, desenvolvido como parte do CP2 de Web Development da FIAP. O portfólio foi criado com o intuito de apresentar meus projetos e minha trajetória no campo da tecnologia e programação.
 
 ### Funcionalidades
 
